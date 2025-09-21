@@ -1,9 +1,10 @@
 Open-sourced CAD Model of Tactile SoftHand-A, and its fabricating instruction.
 
 CAD Model: 
-1. ‘Tactile_SoftHand_with_TacFingertip.stp‘ for the researchers who wanna have tactile fingertip.
-2. ’Tactile_SoftHand_A.stp‘ for the researchers who do not wanna have tactile fingertip.
-3. 'finger_with_tactile_fingertip.stp' include robotic finger with tactile fingertip.
+1. ‘softfinger with tactile fingertip.stp‘ is the assembled robotic finger with tctile fingertip.
+2. ‘softfinger without tactile fingertip.stp‘ is the assembled robotic finger without tctile fingertip but general fingertip.
+3. ’SoftHand with Active Antagonism.stp‘ is the assembled whole robotic hand file.
+4. 'Tactile_fingertip_for_3D_Printing.stp' is the file of tactile fingertip for 3D printing.
 
 Video_demo folder inclde all multi-media files:
 1. tactile_softhand_A_demo.mp4 
